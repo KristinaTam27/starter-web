@@ -8,6 +8,6 @@ Intro
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Just to show how it works.
 
 ## Deployment
