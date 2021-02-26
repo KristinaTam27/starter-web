@@ -13,5 +13,8 @@ Sample website with plenty of files for demos. Just to show how it works.
 ## Deployment
 Deployment
 
+## How ti Contribute
+Please fork this repository and issue Pull request for review.
+
 ## Copyright
 Copyright notice
